@@ -1,1 +1,1 @@
-# EAI6050-Project
+# INT6940-Project
